@@ -3,6 +3,14 @@
 
 ### CÓDIGO EXPLICADO
 
+## Como rodar
+1. Certifique-se de ter o Python instalado na sua máquina.
+2. Clone este repositório ou baixe os arquivos.
+3. No seu terminal, navegue até a pasta do projeto.
+4. Execute o comando:
+   ```bash
+   python jogo.py
+
 ### 1. Preparação e Estilo (Imports e Constantes)
 
 ```python
@@ -78,6 +86,8 @@ Optei por não utilizar bibliotecas externas complexas para manter o projeto "po
 ### 8. Autor
 Desenvolvido por Fernanda Aurichio.
 Projeto realizado como parte da jornada de aprendizado no Code in Place 2026.
+
+
 
 
 
